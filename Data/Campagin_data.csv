@@ -1,0 +1,9 @@
+Campaign_ID,Audience,Platform,Content_Type,Ad_Type,Budget,Duration_Days,CTR,Conversion_Rate,Leads,Conversions,Revenue
+C001,College Students,Instagram,Short Video,Lead Generation,20000,15,2.8,4.2,700,29,58000
+C002,Job Seekers,LinkedIn,Carousel,Lead Generation,20000,15,2.0,5.2,400,21,63000
+C003,Working Professionals,LinkedIn,Carousel,Conversion,30000,20,2.3,5.8,552,32,96000
+C004,Freelancers,Instagram,Short Video,Conversion,15000,15,3.1,4.8,465,22,44000
+C005,Small Business Owners,Facebook,Image,Lead Generation,10000,10,2.1,3.5,210,7,21000
+C006,College Students,YouTube,Long Video,Traffic,25000,20,2.4,4.5,600,27,54000
+C007,Job Seekers,Instagram,Carousel,Conversion,18000,15,2.9,4.6,522,24,72000
+C008,Working Professionals,LinkedIn,Long Video,Conversion,40000,25,2.1,6.0,840,50,150000
